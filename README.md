@@ -18,11 +18,12 @@
 |생년월일|2002.11.26|
 |거주지|경기도 용인시|  
 |연락처|010-7282-5592|
+|이메일 | mungf0033@gmail.com |
 
 - 컴퓨터 엔지니어링을 전공했으며, 2027년 8월 졸업 예정입니다.
 - 백엔드 엔지니어, AI/ML 엔지니어 포지션에 관심이 있으며, Java를 주력 언어로 Spring Boot를 사용하여 웹,앱을 개발할 수 있습니다.
 - 창업 활동(2025.06 ~)을 통해 비즈니스 영역까지 경험한 경력이 있습니다.
-- 현재 Python을 사용하여 STT/TTS 모델 구축에 관한 연구를 진행하고 있습니다.
+- 현재 PyTorch 라이브러리를 사용하여 STT/TTS 모델 구축에 관한 연구를 진행하고 있습니다.
 ---
 
 ## 🛠️ Technical Skills
@@ -66,24 +67,27 @@
 
 ---
 
-## 💼 Featured Projects
+## 💼 프로젝트 이력
 
-### 🌟 [청춘 플랫폼 (Cheongchun Platform)](https://github.com/Namung2/cheongchun-platform)
-**Java | Spring Boot | 2025.11**
-
-시니어(만 65세 이상)를 위한 AI 기반 모임 매칭 및 커뮤니티 플랫폼
-
-- RESTful API 설계 및 구현으로 확장 가능한 서버 아키텍처 구축
-- Spring Boot 기반 마이크로서비스 아키텍처 설계
-- 데이터베이스 최적화를 통한 쿼리 성능 향상
-- 보안 프로토콜 구현 및 사용자 인증/인가 시스템 개발
+> ### [청춘 플랫폼 (Cheongchun Platform)](https://github.com/Namung2/cheongchun-platform)
+**Java | Spring Boot | 2025.06 \~**
+시니어(만 65세 이상)를 위한 AI 기반 모임 매칭 및 커뮤니티 플랫폼 창업 활동 진행중
+- 벡엔드 시스템 운영 및 유지보수 리드
+  - Spring Boot 기반 마이크로서비스 아키텍처 설계
+  - 소셜 로그인 (Google, Naver, Kakao)
+  - RESTful API 설계 및 구현으로 확장 가능한 서버 아키텍처 구축
+  - 데이터베이스 최적화를 통한 쿼리 성능 향상
+  - 보안 프로토콜 구현 및 사용자 인증/인가 시스템 개발
+  - 
+- AI 시스템 운영 및 유지보수
+  - GPT
 
 **Tech Stack:** `Java` `Spring Boot` `MySQL` `REST API` `JWT`
 
 ---
 
 ### 🤖 [24Robotics](https://github.com/Namung2/24Robotics)
-**Python | ROS | Computer Vision | 2025.11**
+**Python | ROS | Computer Vision | 2024.10**
 
 로봇 제어 및 비전 시스템 구현 프로젝트
 
@@ -91,7 +95,7 @@
 - 컴퓨터 비전을 활용한 객체 인식 시스템 구현
 - 실시간 센서 데이터 처리 및 분석
 - 로봇 자율 주행 알고리즘 최적화
-
+- 단국대학교 컴퓨터공학과 로봇공학개론 프로젝트
 **Tech Stack:** `Python` `ROS` `OpenCV` `NumPy` `TensorFlow`
 
 ---
@@ -127,14 +131,34 @@
 
 ---
 
-## 🎓 Education & Training
-
+## 🎓 학력
 ### 🏫 단국대학교 (Dankook University)
-**컴퓨터공학 전공** | 2022 - Present
+**컴퓨터공학 전공** | 2022 - Present (2027.07 졸업예정)
 
-- **주요 과목**: 자료구조, 알고리즘, 운영체제, 데이터베이스, 네트워크, 소프트웨어공학
+
+
+## 🏆 Achievements & Activities
+
+### Achievements
+- 2025 단국대학교 창업해커톤 SW분야 최우수상 수상
+  - 2025.09.26.(금) ~ 09.27.(토) / 2일간 진행
+  - SW분야: LLM기반 사회적 약자를 위한 서비스 총 8팀
+  - 청춘 플랫폼(https://github.com/Namung2/cheongchun-platform)
+    
+### Activities
+- 단국대학교 컴퓨터공학과 학술동아리 ReadBeans 회장(2025.01 ~ 2025.07)
+  - 8개 스터디 기획 및 진행
 - **연구 분야**: 인공지능, 머신러닝, 딥러닝
+### Certificate & scholarship
+|종목|등급|합격일자|유효기간|
+|:---------------------:|:-----------:|:----------:|:----------:|
+|제 54회 SQL 개발자(SQLD) | 합격 |2024.09.20	|2024.09.20 ~ 2026.09.20 |
+|제 23회 TOPCIT 정기평가|Level 3 (402/1000) | 2025.05.24 |2025.05.24 ~ |
 
+### 💻 Problem Solving
+- 꾸준한 알고리즘 문제 해결을 통한 코딩 능력 향상 [백준 문제 풀이 저장소](https://github.com/Namung2/beak-answer)
+  
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mungf)](https://solved.ac/mungf/)
 ### 📚 Professional Development
 
 **PyTorch 딥러닝 스터디** | 2025
@@ -157,16 +181,18 @@
 ## 🏆 Achievements & Activities
 
 ### Achievements
-- 2025 단국대학교 창업해커톤 SW부문 최우수상 수상
-  - 2025.09.26.(금) ~ 09.27.(토) / 2일간 진행:
-### 
+- 2025 단국대학교 창업해커톤 SW분야 최우수상 수상
+  - 2025.09.26.(금) ~ 09.27.(토) / 2일간 진행
+  - SW분야: LLM기반 사회적 약자를 위한 서비스 총 8팀
+  - 청춘 플랫폼(https://github.com/Namung2/cheongchun-platform)
+    
+
+
+
 ### 💻 Problem Solving
 - 꾸준한 알고리즘 문제 해결을 통한 코딩 능력 향상 [백준 문제 풀이 저장소](https://github.com/Namung2/beak-answer)
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mungf)](https://solved.ac/mungf/)
-
-
-
 
 ## 💡 Core Competencies
 
@@ -180,20 +206,8 @@
 - ☁️ **클라우드 네이티브 애플리케이션**: 현대적인 클라우드 인프라를 활용한 서비스 개발
 - 🤖 **AI/ML 기반 서비스**: 머신러닝과 딥러닝을 활용한 STT/TTS 서비스 개발
 - 🔄 **DevOps 문화**: CI/CD 자동화를 통한 개발 생산성 향상
+| 블로그 | [Velog](https://velog.io/@mungf0011/posts) ,[Medium](https://medium.com/@mungf0033)|
 
 ---
-
-## 📫 Contact
-
-<div align="center">
-
-**새로운 기회와 협업을 환영합니다!**
-
-📧 Email: your.email@example.com  
-🔗 GitHub: [@Namung2](https://github.com/Namung2)  
-💼 Blog: [Your Profile](https://velog.io/@mungf0011/posts)
-📱 Phone: +82-10-XXXX-XXXX
-
-</div>
 
 
