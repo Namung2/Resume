@@ -28,7 +28,7 @@
 
 **Java | Spring Boot | PostgreSQL | Python | GCP | 2025.06 ~ 현재**
 
-시니어(만 65세 이상)를 위한 AI 기반 모임 매칭 및 커뮤니티 플랫폼  
+시니어(만 65세 이상)를 위한 AI 기반 모임 매칭 및 커뮤니티 플랫폼 : [청춘 장터](https://cheongchun-frontend-40635111975.asia-northeast3.run.app)
 
 **벡엔드 리드 & AI Core 개발 담당 (3인 팀) - 기획/개발/배포 총괄**
 
@@ -90,7 +90,7 @@
 
 ---
 
-## 학력 및 교내 활동
+## 🎓 학력 및 교내 활동
 ### 단국대학교 (Dankook University)
 **컴퓨터공학 전공** | 2022.03 - 2027.08(졸업예정)  
 
@@ -101,26 +101,26 @@
       - github Repository:[Backend](https://github.com/Namung2/readbeans-backend),[Frontend](https://github.com/Namung2/readbeans-frontend)
       - **Links:** [ReadBeans홈페이지](https://redbeans-frontend-3ung5ifwh-namwoongs-projects.vercel.app/)
 ## 🏆 수상이력
-
-### 수상이력
-- 2025 단국대학교 창업해커톤 SW분야 최우수상 수상
-  - 2025.09.26.(금) ~ 09.27.(토) / 2일간 진행
+**2025 단국대학교 창업해커톤 SW분야 최우수상 수상**
+  - 일시: 2025.09.26.(금) ~ 09.27.(토) / 2일간 진행
   - 주최: 단국G-RISE사업단·SW중심대학사업단·창업지원단 공동주관
-  - SW분야: LLM기반 사회적 약자를 위한 서비스 총 8팀(23명) 참가 3팀(7명) 수상
-  - 단국 G-Rize 사업단에서 창업지원금 2,000,000원 지원 2025.10.24
-  - 단국대학교 SW융합대학에서 상금 700,000원 수령 2025.09.27
+  - 주제: LLM기반 사회적 약자를 위한 서비스 개발
+  - 성과: SW분야 총 9팀(23명) 중 최우수상 수상
+  - 수상 혜택
+      - 창업지원금 2,000,000원 (단국 G-RISE 사업단, 2025.10.24)
+      - 상금 700,000원 (단국대학교 SW융합대학, 2025.09.27)
 ---
 ## 자격증
 |종목|등급|합격일자|유효기간|
 |:---------------------:|:-----------:|:----------:|:----------:|
 |제 54회 SQL 개발자(SQLD) | 합격 |2024.09.20	|2024.09.20 ~ 2026.09.20 |
 |제 23회 TOPCIT 평가| Level 3 | 2025.05.24 |2025.05.24 ~ 현재|  
-
+--- 
 ## 개인 학습
-- 인공지능, 머신러닝, 딥러닝 논문 리뷰
+**인공지능, 머신러닝, 딥러닝 논문 리뷰**
   -  블로그: [Velog](https://velog.io/@mungf0011/posts) ,[Medium](https://medium.com/@mungf0033)
 
-- 꾸준한 알고리즘 문제 해결을 통한 코딩 능력 향상 [백준 문제 풀이 저장소](https://github.com/Namung2/beak-answer)
+**꾸준한 알고리즘 문제 해결을 통한 코딩 능력 향상**  [백준 문제 풀이 저장소](https://github.com/Namung2/beak-answer)
   
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mungf)](https://solved.ac/mungf/)
 
@@ -129,19 +129,17 @@
 
 ### Languages
 ![C/C++](https://img.shields.io/badge/C/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Namung2&layout=compact&theme=solarized-light)
 ### Frameworks & Libraries
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+
+
 
 
 ### Infrastructure & DevOps
@@ -155,8 +153,7 @@
 ### Tools & Others
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) 
-![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### Social
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
@@ -164,11 +161,16 @@
 ![Slack](https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 
 ---
-## 희망 분야
+## 🚀 지향점
 
-> **끊임없이 도전하는 준비된 개발자 입니다. 특히 다음 분야에 관심이 있습니다:**
 
-- **확장 가능한 백엔드 시스템 설계**: 대규모 트래픽을 처리할 수 있는 효율적인 서버 아키텍처 구축
-- **클라우드 네이티브 애플리케이션**: 현대적인 클라우드 인프라를 활용한 서비스 개발
-- **AI/ML 기반 서비스**: 머신러닝과 딥러닝을 활용한 STT/TTS , LLM 서비스 연구
+### "0에서 1을 만들고, 1을 100으로 확장하는 개발자"
+
+> **창업 프로젝트를 통해 기획부터 배포까지 경험했습니다.  
+> 이제는 더 많은 사용자에게 안정적인 가치를 전달하는 시스템을 만들고 싶습니다.**
+
+**관심 직무 및 기술 영역:**
+- **Scalable Backend**: 동시성 제어, 캐싱, 분산 처리를 통한 고성능 시스템 구축
+- **Cloud Infrastructure**: 컨테이너 오케스트레이션 및 MSA 기반 서비스 운영
+- **Production AI**: 연구를 넘어 실제 비즈니스 임팩트를 만드는 AI 서비스 개발
 --- 
