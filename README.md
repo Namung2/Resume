@@ -26,7 +26,7 @@
 # 💼 프로젝트 이력
 ### [청춘 플랫폼](https://github.com/Namung2/cheongchun-platform)  
 
-**Java | Spring Boot | PostgreSQL | Python | GCP | 2025.06 ~ 현재**
+**Java | Spring Boot | PostgreSQL | Python | GCP | 2025.06 ~ 현재 개발중**
 
 시니어(만 65세 이상)를 위한 AI 기반 모임 매칭 및 커뮤니티 플랫폼 : [청춘 장터](https://cheongchun-frontend-40635111975.asia-northeast3.run.app)
 
