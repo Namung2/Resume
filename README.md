@@ -20,31 +20,21 @@
 - 컴퓨터 엔지니어링을 전공했으며, 2027년 8월 졸업 예정입니다.
 - 백엔드 엔지니어, AI/ML 엔지니어 포지션, Robotics 엔지니어를 희망하며, Java를 주력 언어로 Spring Boot를 사용하여 웹,앱을 개발할 수 있습니다.
 - 창업 활동(2025.06 ~)을 통해 비즈니스 영역까지 경험한 경력이 있습니다.
-- 현재 AI/ML 논문을 리뷰하며 모델 연구를 진행하고 있습니다.
+- 현재 HAil Lab 에서 연구를 진행하고 있습니다.
 ---
 
 # 💼 프로젝트 이력
-### [청춘 플랫폼](https://github.com/Namung2/cheongchun-platform)  
-
-**Java | Spring Boot | PostgreSQL | Python | GCP | 2025.06 ~ 2026.02**
-
-시니어(만 65세 이상)를 위한 AI 기반 모임 매칭 및 커뮤니티 플랫폼 : [청춘 장터](https://cheongchun-frontend-40635111975.asia-northeast3.run.app)
+### [하루안부](https://github.com/HaruAnbu-Developer/Haru-Anbu)  
+**2025.06 ~ 2026.02**
 
 **벡엔드 리드 & AI Core 개발 담당 (3인 팀) - 기획/개발/배포 총괄**
 
 **AI 시스템 개발**
-- OpenAI GPT-4 기반 시니어 맞춤형 대화 AI 엔진 개발
+- 노인 돌봄 음성 AI : AI 파이프라인(VAD → Whisper → Gemma-2-9B → OpenVoice, gRPC 스트리밍) 전체 설계·구현 담당.
 - 대화 자동 분석 시스템 구축 (감정/스트레스/건강 키워드 추출 및 분류)
-  
-**백엔드 시스템 개발**
-- 7개 도메인 60+ REST API 설계 및 구현
-- OAuth2 중복 계정 생성 방지 & Strategy 패턴으로 소셜 로그인 통합 
-- JWT Refresh Token Rotation으로 토큰 탈취 방어
--  모임 참여 동시성 제어( ConcurrentHashMap 기반 원자적 처리)
 
 **인프라 & 배포**
-- Google Cloud Run 기반 컨테이너 배포 (Docker)
-- Cloud SQL (PostgreSQL) 연동 및 Connection Pool 최적화
+- AWS 기반 컨테이너 배포
 
 **기획 & 협업**
 - 서비스 아이디어 기획 및 사업계획서 작성 (B2C/B2G 모델)
@@ -60,15 +50,6 @@
 - Graph SLAM 알고리즘을 통한 동시 Localization, Mapping 처리 구현
 - A* Path Planning, Path Smoothing Algorithm, PID 제어 통합 네비게이션 시스템 구현
 - 파티클 필터 기반 실시간 위치 추정 시스템 구현 (정확도 95% 달성)
-
-|항목|수치/성능|
-|:---:|:---:|
-|위치 추정 정확도 |95% (장애물 4개)|
-|수렴 시간|3초 이내|
-|경로 추종 오차|0.5m이내|
-|통신 주기|1Hz(초당 1회)|
-|파티클 개수|1,000개|
-
 
 ---
 
@@ -89,19 +70,18 @@
   - HTTP 연결 풀 관리 및 타임아웃 설정으로 시스템 안정성 확보
 
 ---
-### [생성형 Ai 논문](https://github.com/Namung2/continual_generative_model/tree/exp)
-
 
 ## 🎓 학력 및 교내 활동
 ### 단국대학교 (Dankook University)
 **컴퓨터공학 전공** | 2022.03 - 2027.08(졸업예정)  
-
-  
 단국대학교 컴퓨터공학과 학술동아리 ReadBeans 회장(2025.01 ~ 2025.07)
   - 스터디 기획 및 진행: 알고리즘 스터디, pytorch 및 AI 스터디 진행
-  - 동아리 웹사이트 제작(1인)
-      - github Repository:[Backend](https://github.com/Namung2/readbeans-backend),[Frontend](https://github.com/Namung2/readbeans-frontend)
-      - **Links:** [ReadBeans홈페이지](https://redbeans-frontend-3ung5ifwh-namwoongs-projects.vercel.app/)
+
+## 논문
+ - Namwoong Cho*, Jungwoo Lee*, Dongjae Kim, “Mitigating Catastrophic Forgetting in Continual Generative Models via Contrastive Learning and Generative Replay,” KCC 2026. 
+ - Namwoong Cho*, Jungwoo Lee*, Dongjae Kim, “Contrastive Learning and Generative Replay for Continual Learning of Autoencoder-Based Generative Models,” KSC 2026 (under review)
+ - Chuljin Lee*,  Namwoong Cho*, Sunwoo Lee*, Dongjae Kim, “Why LLMs Fail at Planning and Reasoning: State Formation or State Transition?,” KSC 2026 (under review)
+   
 ## 🏆 수상이력
 **2025 단국대학교 창업해커톤 SW분야 최우수상 수상**
   - 일시: 2025.09.26.(금) ~ 09.27.(토) / 2일간 진행
@@ -117,7 +97,10 @@
 |:---------------------:|:-----------:|:----------:|:----------:|
 |제 54회 SQL 개발자(SQLD) | 합격 |2024.09.20	|2024.09.20 ~ 2026.09.20 |
 |제 23회 TOPCIT 평가| Level 3 | 2025.05.24 |2025.05.24 ~ 현재|  
---- 
+---
+## 장학금
+### 삼성 푸른등대 기부장학금 AI트랙, 한국장학재단 (2026.3)
+### SW중심대학 SW우수장학, 단국대 SW중심대학사업단 (2026.7)
 ## 개인 학습
 **인공지능, 머신러닝, 딥러닝 논문 리뷰**
   -  블로그: [Velog](https://velog.io/@mungf0011/posts) ,[Medium](https://medium.com/@mungf0033)
